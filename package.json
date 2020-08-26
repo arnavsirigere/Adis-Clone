@@ -1,0 +1,20 @@
+{
+  "name": "adis-clone",
+  "version": "1.0.0",
+  "description": "A discord bot for Adis Discord Hut",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discordjs",
+    "discord_bot"
+  ],
+  "author": "Arnav Sirigere",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
