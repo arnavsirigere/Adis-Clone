@@ -10,7 +10,7 @@ async function commandHandler(message) {
     if (command == 'ping') {
       ping(message);
     } else if (command == 'invite') {
-      await message.channel.send('https://discord.gg/AHrBqtw');
+      await message.channel.send('https://discord.gg/akEfvH9');
     } else if (command == 'help') {
       help(message);
     } else {
