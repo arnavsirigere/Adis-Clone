@@ -1,4 +1,4 @@
-# Adis-Clone
+# Adis-Discord-Bot
 
 A discord bot for Adi's Discord Hut - https://discord.gg/akEfvH9
 
