@@ -6,7 +6,7 @@ A discord bot for Adi's Discord Hut - https://discord.gg/akEfvH9
 
 `!ping` - Pong!
 
-`!invite` - To get a invite link for this server
+`!invite` - To get a invite link to the server
 
 `!help` - To view all the available commands and what they do
 
