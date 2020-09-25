@@ -12,6 +12,6 @@ A discord bot for Adi's Discord Hut - https://discord.gg/akEfvH9
 
 ## Admin Only Commands
 
-[NOTE: These commands can be run by anyone with ADMIN_ROLE]
+[NOTE: These commands can be run by anyone with the ADMIN_ROLE]
 
 `!giveaway` - Randomly pick a member from the server for the giveaway prize
