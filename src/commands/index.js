@@ -1,5 +1,6 @@
 const ping = require('./ping');
 const help = require('./help');
+const giveaway = require('./giveaway');
 
 const prefix = '!';
 
@@ -13,6 +14,8 @@ async function commandHandler(message) {
       await message.channel.send('https://discord.gg/akEfvH9');
     } else if (command == 'help') {
       help(message);
+    } else if (command == 'giveaway') {
+      giveaway(message);
     } else {
       await message.reply('That command doesnt exist, yet!');
     }
