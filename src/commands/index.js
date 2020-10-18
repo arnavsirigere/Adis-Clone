@@ -2,7 +2,7 @@ const ping = require('./ping');
 const help = require('./help');
 const giveaway = require('./giveaway');
 
-const prefix = '!';
+const prefix = '#';
 
 async function commandHandler(message) {
   let content = message.content;
